@@ -1,0 +1,18 @@
+{
+  "name": "wct-axe",
+  "version": "0.0.1",
+  "description": "Web Component Tester plugin that uses Axe to test and generate reports for accessibility issues.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "bower i"
+  },
+  "author": "Talha Aydin <talha@aydin.pro>",
+  "license": "ISC",
+  "wct-plugin": {},
+  "devDependencies": {
+  },
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
+}
